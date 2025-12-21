@@ -1,0 +1,516 @@
+Patient_ID,Patient_Name,Age,Gender,Blood_Type,Systolic_BP,Diastolic_BP,Heart_Rate,BMI,Cholesterol,Glucose,Primary_Diagnosis,Smoking_Status,Alcohol_Per_Week,Hospital_Visits_Last_Year,Current_Medications,Admission_Date,Insurance_Type
+PT00305,Nancy Sanchez,44.0,Female,O+,136.0,69.0,58.0,18.030181350883502,264.0,103.0,Hypertension,Never,3.0,2,0,2023-04-21,Private
+PT00500,Sarah Smith,24.0,Male,A+,96.0,87.0,81.0,16.0,154.0,134.0,Osteoporosis,Never,1.0,2,2,2023-08-15,Medicare
+PT00442,Andrew Jackson,44.0,Male,A+,130.0,80.0,94.0,21.812659919367334,213.0,177.0,Diabetes Type 2,Current,9.0,5,4,2023-06-29,Medicaid
+PT00154,Andrew King,48.0,Female,B+,,,61.0,27.9547029914046,120.0,112.0,Arthritis,Never,1.0,4,0,2023-01-26,Medicare
+PT00098,Donna Scott,48.0,Male,O+,134.0,83.0,77.0,33.44901315785677,156.0,,Diabetes Type 2,Current,2.0,0,0,2023-12-16,Private
+PT00132,Matthew Smith,46.0,Other,B-,128.0,64.0,68.0,24.464498971560865,,129.0,Obesity,Current,0.0,1,6,2023-05-09,Private
+PT00205,Anthony Thomas,24.0,Male,A+,138.0,70.0,94.0,23.489419100679775,142.0,70.0,Obesity,Former,4.0,0,0,2023-07-23,Medicare
+PT00450,Christopher Hill,29.0,Female,A-,144.0,74.0,77.0,33.020829700501984,148.0,142.0,Migraine,Never,5.0,3,0,2023-10-15,Medicare
+PT00326,Michelle Martinez,26.0,Male,A+,118.0,93.0,71.0,30.813401174431498,204.0,96.0,Osteoporosis,Never,5.0,5,3,2023-01-09,Medicaid
+PT00248,Sandra Lewis,,Male,O+,,,80.0,23.941392094222042,205.0,108.0,Arthritis,Current,7.0,2,1,2023-02-19,Private
+PT00466,Charles Sanchez,41.0,Male,O+,,,84.0,26.895352657285976,300.0,100.0,Heart Disease,Never,4.0,2,4,2023-06-23,Medicaid
+PT00354,Sandra Ramirez,42.0,Female,O+,90.0,109.0,,25.727704302697173,,112.0,None,Former,2.0,2,3,2023-07-25,Private
+PT00290,Anthony Perez,35.0,Female,O+,170.0,81.0,65.0,32.13901716725673,221.0,76.0,Asthma,Never,4.0,1,3,2023-04-19,Private
+PT00085,Robert Wright,32.0,Male,A+,134.0,80.0,80.0,21.30148700873924,194.0,127.0,Arthritis,,3.0,0,1,2023-01-15,Private
+PT00011,Richard Wright,38.0,Female,A+,131.0,87.0,57.0,35.99435867969857,140.0,122.0,Hypertension,Former,2.0,2,2,2023-06-26,Self-Pay
+PT00325,Richard Johnson,29.0,Male,A+,99.0,60.0,66.0,21.63102689379405,175.0,70.0,Diabetes Type 2,Never,4.0,3,3,2023-06-15,Self-Pay
+PT00079,Ashley Johnson,46.0,Other,O+,115.0,98.0,50.0,19.05561495183493,300.0,220.0,High Cholesterol,Never,3.0,1,0,2023-12-27,Private
+PT00031,Joseph Miller,35.0,Female,A+,112.0,92.0,85.0,28.484062535679605,280.0,79.0,High Cholesterol,Never,4.0,2,2,2023-12-06,Private
+PT00185,Nancy Rodriguez,41.0,Male,,127.0,66.0,74.0,32.66038096358387,215.0,,COPD,Never,1.0,3,3,2023-03-31,Private
+PT00196,Lisa Williams,50.0,Female,B+,142.0,96.0,87.0,21.504937223078493,163.0,125.0,High Cholesterol,Former,4.0,2,3,2023-06-01,Medicare
+PT00223,Margaret Thompson,55.0,Female,O-,121.0,96.0,70.0,37.02764784132707,196.0,117.0,Depression,Never,1.0,4,1,2023-02-25,Medicare
+PT00210,Sandra Thompson,90.0,Female,O+,90.0,70.0,66.0,30.47338571219066,180.0,124.0,Asthma,Never,,4,1,2023-01-08,Medicaid
+PT00282,Robert Jackson,54.0,Female,O+,109.0,89.0,94.0,28.607512627849264,,102.0,Osteoporosis,Never,4.0,2,3,2023-02-01,Medicaid
+PT00209,Joseph Gonzalez,52.0,Female,A+,121.0,79.0,82.0,36.72518210384354,240.0,114.0,Asthma,Never,5.0,3,1,2023-07-22,Medicaid
+PT00125,Michael Brown,53.0,Male,A+,118.0,110.0,66.0,24.619886757222154,196.0,,Heart Disease,Never,0.0,2,2,2023-08-15,Private
+PT00251,David Garcia,26.0,Male,O+,127.0,93.0,81.0,22.365255204913254,210.0,112.0,Anxiety,Never,2.0,1,2,2023-03-11,Private
+PT00077,Kimberly Smith,46.0,Male,O+,139.0,70.0,53.0,,195.0,84.0,Heart Disease,Former,5.0,5,2,2023-02-20,Medicaid
+PT00383,Sarah Martin,18.0,Female,,240.0,140.0,140.0,27.565558842869457,242.0,81.0,Heart Disease,Never,3.0,2,1,2023-02-20,Medicaid
+PT00343,Daniel Wright,48.0,Female,AB-,140.0,63.0,55.0,53.99719550974427,233.0,133.0,Depression,Current,4.0,1,2,2023-04-24,Medicare
+PT00324,Mary Thomas,76.0,Male,AB+,137.0,67.0,84.0,36.28635932497005,180.0,90.0,COPD,Former,5.0,2,1,2023-10-29,Private
+PT00245,Charles Wilson,26.0,Female,O+,99.0,61.0,70.0,24.36704586274586,177.0,107.0,Anxiety,Never,3.0,1,3,2023-06-05,Private
+PT00332,Joshua Hill,31.0,Male,O+,141.0,76.0,58.0,16.992485017459614,175.0,76.0,Thyroid Disorder,Former,5.0,1,6,2023-09-27,Private
+PT00141,Patricia Brown,48.0,Female,O-,113.0,70.0,67.0,30.343315211778574,184.0,110.0,Diabetes Type 2,Never,6.0,1,3,2023-10-20,Other
+PT00010,Mary Scott,53.0,Male,O-,160.0,83.0,,27.910652521983174,,88.0,Diabetes Type 2,Current,2.0,2,5,2023-09-05,Medicaid
+PT00073,Karen Allen,44.0,Male,O+,134.0,93.0,65.0,29.311250928478692,189.0,100.0,High Cholesterol,Never,2.0,1,0,2023-05-28,Private
+PT00401,James Torres,,Female,AB+,126.0,102.0,56.0,29.225189277244986,180.0,118.0,Heart Disease,Never,3.0,1,1,2023-06-10,Medicaid
+PT00488,Sandra Davis,28.0,Male,,129.0,101.0,66.0,26.305782299678558,241.0,79.0,COPD,,1.0,2,2,2023-06-16,Self-Pay
+PT00226,Linda Harris,61.0,Male,,119.0,90.0,70.0,29.93508284820446,177.0,133.0,Heart Disease,Former,5.0,3,5,2023-08-30,Medicaid
+PT00074,Joshua Gonzalez,68.0,Male,A+,122.0,65.0,65.0,21.348471510727776,208.0,250.0,None,Former,4.0,2,4,2023-04-27,Other
+PT00178,Joshua Wilson,66.0,Male,,110.0,86.0,77.0,,246.0,102.0,Obesity,Never,2.0,2,2,2023-10-24,Medicare
+PT00404,Nancy Lopez,45.0,Male,B+,142.0,82.0,85.0,,295.0,250.0,Hypertension,Former,3.0,3,2,2023-07-11,Private
+PT00069,David Robinson,50.0,Male,O+,111.0,87.0,82.0,21.697579633085823,214.0,71.0,Kidney Disease,Former,4.0,3,1,2023-02-05,Self-Pay
+PT00156,Susan Lee,34.0,Female,A+,124.0,73.0,73.0,22.868542889061906,,88.0,Obesity,Never,3.0,0,1,2023-09-12,Medicare
+PT00056,William Allen,,Female,O+,122.0,77.0,51.0,24.452496189981026,155.0,70.0,Depression,Current,5.0,2,3,2023-07-23,Medicare
+PT00406,Donald Davis,54.0,Female,O+,134.0,75.0,77.0,33.7467046338553,450.0,153.0,None,Former,5.0,2,2,2023-12-18,Other
+PT00299,Anthony Wright,57.0,Female,A+,137.0,63.0,94.0,26.2139145106216,,108.0,Heart Disease,,1.0,3,1,2023-10-17,Medicare
+PT00078,Joshua Lee,40.0,Female,O+,123.0,83.0,60.0,31.776502057608464,,122.0,Hypertension,Never,3.0,0,3,2023-11-21,Private
+PT00469,Christopher Taylor,37.0,Female,O+,131.0,94.0,86.0,21.990453977750214,198.0,108.0,Asthma,Current,3.0,2,3,2023-04-03,Private
+PT00318,Sarah Clark,40.0,Male,O+,136.0,83.0,,30.50748266571366,350.0,70.0,High Cholesterol,Former,2.0,1,1,2023-12-05,Private
+PT00476,Michelle Young,41.0,Female,A+,,,80.0,29.10039999223168,274.0,116.0,Obesity,Former,0.0,1,0,2023-11-21,Medicaid
+PT00091,Paul Gonzalez,46.0,Male,B+,105.0,97.0,82.0,,183.0,70.0,None,Current,2.0,0,3,2023-07-11,Private
+PT00239,William Gonzalez,35.0,Male,A+,102.0,93.0,70.0,20.328597734268833,350.0,151.0,Depression,Never,1.0,2,1,2023-11-29,Private
+PT00486,Anthony Garcia,23.0,Female,A+,143.0,82.0,79.0,32.9410046942708,159.0,101.0,Heart Disease,Never,,3,2,2023-07-09,Medicare
+PT00064,Thomas Scott,27.0,Male,B+,145.0,81.0,84.0,35.1674228858849,,110.0,High Cholesterol,Never,2.0,0,2,2023-11-17,Self-Pay
+PT00458,Sarah Lopez,29.0,Female,O+,181.0,81.0,69.0,31.454833372597097,188.0,75.0,Obesity,Former,4.0,2,2,2023-12-03,Medicare
+PT00071,Steven Lopez,50.0,Male,O+,124.0,94.0,87.0,33.91277484656266,265.0,100.0,Diabetes Type 2,Never,1.0,0,4,2023-11-20,Private
+PT00003,Joseph Rodriguez,54.0,Female,O+,147.0,60.0,64.0,26.966763897991573,169.0,117.0,None,Current,4.0,2,2,2023-10-28,Private
+PT00288,Barbara Wilson,53.0,Female,A+,114.0,67.0,68.0,32.466296384650754,350.0,70.0,Kidney Disease,Never,3.0,1,1,2023-02-16,Medicaid
+PT00342,Andrew Williams,48.0,Female,O+,114.0,63.0,84.0,16.0716832209822,218.0,98.0,Thyroid Disorder,Never,2.0,2,2,2023-09-15,Other
+PT00138,Susan Brown,40.0,Female,A+,134.0,82.0,79.0,31.687695065753175,228.0,99.0,Osteoporosis,Never,3.0,1,2,2023-02-24,Medicare
+PT00250,Steven Walker,51.0,Female,A+,104.0,86.0,59.0,22.55632141024736,159.0,86.0,Arthritis,Never,2.0,1,4,2023-10-03,Medicare
+PT00195,John Martin,47.0,Female,B+,137.0,82.0,70.0,52.98150356276555,206.0,108.0,Hypertension,Never,3.0,1,6,2023-09-04,Medicare
+PT00173,Karen Miller,43.0,Male,A+,135.0,99.0,61.0,23.84000310914595,212.0,75.0,Diabetes Type 2,Never,4.0,1,4,2023-11-27,Private
+PT00083,Andrew Garcia,,Other,B-,220.0,140.0,62.0,24.292116838908214,178.0,99.0,Hypertension,Former,38.44010501691446,0,2,2023-12-22,Medicare
+PT00454,Mary Moore,52.0,Female,,131.0,88.0,66.0,,246.0,132.0,Hypertension,Former,,3,8,2023-11-26,Private
+PT00319,Thomas Garcia,49.0,Female,A+,,,68.0,23.65377081168672,185.0,94.0,None,Never,1.0,1,4,2023-01-14,Private
+PT00034,David White,29.0,Male,O-,151.0,60.0,76.0,27.327313297478636,221.0,104.0,Heart Disease,Former,1.0,0,6,2023-09-11,Private
+PT00427,Robert Hernandez,30.0,Male,B+,113.0,84.0,64.0,29.160604736139057,174.0,70.0,High Cholesterol,Former,3.0,3,3,2023-08-05,Self-Pay
+PT00228,Thomas Williams,28.0,Female,O+,143.0,67.0,80.0,23.98281150689321,246.0,136.0,Hypertension,Former,3.0,2,1,2023-11-14,Private
+PT00001,Linda Johnson,52.0,Female,O+,,,87.0,26.11051374924928,192.0,101.0,None,Current,4.0,0,2,2023-05-25,Medicaid
+PT00012,Anthony Anderson,38.0,Other,A+,138.0,71.0,150.0,,266.0,84.0,High Cholesterol,Never,7.0,1,1,2023-06-20,Self-Pay
+PT00238,Charles Scott,47.0,Male,,116.0,94.0,59.0,25.651232853856012,241.0,101.0,Migraine,,2.0,1,0,2023-06-04,Private
+PT00023,Sandra Wright,46.0,Male,A+,112.0,91.0,55.0,29.305512678674845,181.0,78.0,High Cholesterol,Never,4.0,2,4,2023-04-30,Medicaid
+PT00105,Jessica Moore,42.0,Other,A+,109.0,94.0,64.0,25.007577707424694,188.0,70.0,Diabetes Type 2,Never,3.0,5,1,2023-11-14,Medicaid
+PT00297,James Thompson,58.0,Female,O+,136.0,69.0,50.0,29.936612528232615,258.0,113.0,Obesity,Former,2.0,1,4,2023-05-05,Medicaid
+PT00102,Joseph Jones,38.0,Male,B+,133.0,92.0,55.0,18.754247384435565,207.0,,Obesity,Never,2.0,3,0,2023-02-10,Self-Pay
+PT00080,Linda White,,Female,,114.0,72.0,73.0,27.500284127556448,205.0,146.0,Kidney Disease,Current,,2,1,2023-02-21,Medicaid
+PT00430,Donald Jackson,18.0,Female,A+,149.0,99.0,94.0,31.290111940579063,400.0,90.0,Obesity,Never,0.0,4,2,2023-11-04,Other
+PT00432,Charles Jackson,18.0,Male,A+,159.0,62.0,75.0,31.992663135605937,185.0,89.0,High Cholesterol,Former,1.0,1,5,2023-06-30,Medicare
+PT00019,Jennifer Harris,31.0,Male,O+,130.0,99.0,72.0,27.25346208011376,259.0,,Obesity,Never,5.0,4,4,2023-12-24,Private
+PT00177,Sarah Jackson,45.0,Female,B+,118.0,82.0,86.0,27.904764178467065,400.0,,COPD,Never,2.0,2,3,2023-01-18,Medicaid
+PT00232,Margaret Jones,48.0,Female,O+,149.0,72.0,93.0,27.82685461107657,,118.0,Arthritis,Former,3.0,4,3,2023-04-24,Medicare
+PT00466,Charles Sanchez,41.0,Male,O+,,,84.0,26.895352657285976,300.0,100.0,Heart Disease,Never,4.0,2,4,2023-06-23,Medicaid
+PT00133,Matthew Taylor,29.0,Male,B+,140.0,103.0,87.0,23.32879864018537,220.0,126.0,Kidney Disease,Former,4.0,0,2,2023-08-22,Medicare
+PT00040,Matthew Moore,47.0,Female,O+,134.0,76.0,58.0,29.17765099916449,264.0,145.0,Obesity,Former,6.0,5,5,2023-02-21,Private
+PT00465,Anthony Young,43.0,Female,O+,100.0,91.0,69.0,30.95875172723278,189.0,97.0,Heart Disease,Never,3.0,0,1,2023-06-08,Medicare
+PT00047,Christopher Wilson,38.0,Male,O+,133.0,82.0,50.0,24.304348645360506,207.0,95.0,Heart Disease,Never,39.137891099648556,3,1,2023-07-29,Private
+PT00358,Mark Thomas,40.0,Male,O-,101.0,62.0,80.0,30.447706155845122,232.0,133.0,COPD,Current,6.0,3,1,2023-09-09,Private
+PT00278,Thomas Thomas,35.0,Male,AB+,111.0,80.0,,34.912271082786575,196.0,117.0,Depression,Never,2.0,1,1,2023-07-08,Self-Pay
+PT00363,Elizabeth Young,,Male,O+,124.0,91.0,63.0,34.711880423512696,227.0,280.0,Heart Disease,Former,2.0,3,2,2023-06-14,Medicare
+PT00094,Kimberly Lewis,40.0,Female,B+,121.0,72.0,72.0,32.410678701800656,193.0,77.0,Hypertension,Current,5.0,4,2,2023-05-06,Medicare
+PT00447,Ashley Lewis,50.0,Male,AB+,136.0,79.0,79.0,38.75587126251324,132.0,104.0,Diabetes Type 2,Never,1.0,2,0,2023-10-21,Private
+PT00204,Elizabeth Perez,60.0,Male,AB-,104.0,66.0,63.0,21.71216212926928,140.0,86.0,Depression,Current,1.0,2,5,2023-12-12,Private
+PT00451,Thomas Johnson,44.0,Male,A+,120.0,91.0,74.0,21.03978219611433,254.0,106.0,COPD,Former,7.0,3,2,2023-11-15,Medicare
+PT00149,Linda Torres,52.0,Female,A+,123.0,75.0,73.0,28.225521274163533,,80.0,None,Never,4.0,0,2,2023-07-22,Private
+PT00221,Thomas Williams,79.0,Female,A+,90.0,82.0,,19.036756211083734,237.0,117.0,Depression,Never,2.0,4,1,2023-11-23,Private
+PT00070,James Taylor,35.0,Female,A+,130.0,66.0,68.0,21.945121830371384,150.0,81.0,Thyroid Disorder,Never,2.0,5,2,2023-05-01,Medicare
+PT00254,Jennifer Thomas,60.0,Male,O-,140.0,86.0,81.0,32.54358339461141,155.0,130.0,Heart Disease,Never,3.0,1,2,2023-07-09,Private
+PT00399,Charles Rodriguez,43.0,Female,O+,153.0,78.0,73.0,37.69564475784455,248.0,107.0,Asthma,Current,4.0,1,1,2023-06-10,Self-Pay
+PT00168,Lisa Jackson,73.0,,A+,122.0,71.0,94.0,22.71293103144558,120.0,117.0,Asthma,Never,1.0,2,1,2023-12-15,Private
+PT00276,Mark Hernandez,51.0,Female,A+,,,77.0,16.0,220.0,99.0,COPD,Never,,0,1,2023-02-20,Medicaid
+PT00118,Jessica Gonzalez,27.0,Female,AB+,90.0,97.0,,24.8201504247695,,70.0,COPD,Never,0.0,3,0,2023-01-05,Private
+PT00286,William Martinez,18.0,Male,,90.0,81.0,50.0,,151.0,94.0,Depression,Current,5.0,2,1,2023-03-04,Medicare
+PT00321,Paul Brown,46.0,Male,A+,123.0,81.0,101.0,24.714034776967843,189.0,102.0,None,Never,4.0,2,3,2023-01-08,Private
+PT00330,Sandra Taylor,54.0,Female,O-,104.0,70.0,84.0,,161.0,104.0,Asthma,Current,0.0,0,1,2023-03-06,Medicare
+PT00174,William Taylor,50.0,Male,O+,150.0,66.0,57.0,27.88941633791617,204.0,70.0,Depression,Current,9.0,4,1,2023-01-21,Other
+PT00273,Christopher Lewis,62.0,Male,O+,158.0,81.0,79.0,,206.0,103.0,Arthritis,,3.0,2,4,2023-08-16,Medicare
+PT00496,Joshua Allen,53.0,Female,O+,108.0,91.0,69.0,16.0,,300.0,Thyroid Disorder,Current,,1,5,2023-01-26,Self-Pay
+PT00183,Margaret Moore,28.0,Female,A+,101.0,69.0,52.0,21.519347660137434,178.0,104.0,Obesity,Former,3.0,1,5,2023-06-17,Medicaid
+PT00269,Jessica Davis,38.0,Female,O-,132.0,77.0,99.0,26.420532439442454,165.0,124.0,Thyroid Disorder,Never,3.0,0,1,2023-12-20,Private
+PT00353,Paul Walker,57.0,Female,A+,125.0,76.0,80.0,22.53567438263994,176.0,90.0,COPD,Never,1.0,1,1,2023-09-03,Medicaid
+PT00118,Jessica Gonzalez,27.0,Female,AB+,90.0,97.0,,24.8201504247695,,70.0,COPD,Never,0.0,3,0,2023-01-05,Private
+PT00394,Lisa Lopez,72.0,Female,A+,91.0,81.0,77.0,,174.0,108.0,None,Former,1.0,2,0,2023-06-23,Medicaid
+PT00333,Linda Hernandez,46.0,Male,O+,92.0,96.0,61.0,22.678978280268844,,126.0,None,Never,6.0,1,0,2023-02-28,Private
+PT00456,Elizabeth Walker,33.0,Female,O+,112.0,85.0,72.0,21.004968837200718,350.0,,Hypertension,Former,7.0,0,1,2023-01-14,Medicaid
+PT00445,Betty Moore,25.0,Male,O+,120.0,61.0,56.0,16.345735303734966,201.0,98.0,Obesity,Never,1.0,0,2,2023-02-28,Medicaid
+PT00357,Jennifer Moore,,Male,A+,,,92.0,22.13792504494706,300.0,86.0,None,Current,4.0,4,3,2023-02-25,Private
+PT00087,Donald Scott,58.0,Female,O+,123.0,87.0,78.0,25.85598652662789,209.0,86.0,Arthritis,Current,1.0,4,3,2023-06-16,Medicaid
+PT00439,Barbara Jones,19.0,Male,A+,144.0,70.0,85.0,25.80381763150628,123.0,127.0,Hypertension,Never,2.0,2,0,2023-09-04,Private
+PT00076,David Wright,57.0,Female,O+,127.0,88.0,80.0,24.318308231827437,141.0,92.0,None,Current,0.0,1,2,2023-08-11,Self-Pay
+PT00452,Jennifer Anderson,59.0,Female,,154.0,72.0,88.0,23.231524234322638,219.0,118.0,Arthritis,Never,2.0,3,3,2023-11-11,Medicare
+PT00016,Nancy Moore,,Male,A+,139.0,90.0,73.0,24.148872040668227,248.0,139.0,Hypertension,Former,4.0,2,5,2023-08-22,Private
+PT00211,Karen Anderson,53.0,Male,A+,90.0,93.0,58.0,30.847740334445483,,123.0,None,Never,4.0,4,0,2023-05-16,Medicare
+PT00181,Ashley Taylor,54.0,Female,A+,103.0,60.0,78.0,,190.0,112.0,Asthma,Never,,1,4,2023-02-16,Medicare
+PT00398,Patricia Scott,65.0,Male,O+,90.0,94.0,67.0,21.023516531047452,138.0,250.0,Anxiety,Never,2.0,2,1,2023-02-18,Self-Pay
+PT00020,Michael Thompson,23.0,Male,AB-,135.0,91.0,73.0,21.94012923853262,284.0,,None,Former,3.0,5,0,2023-05-03,Medicare
+PT00400,Ashley Miller,63.0,Male,O+,116.0,91.0,75.0,24.329559206123328,200.0,91.0,Obesity,Never,2.0,0,2,2023-08-07,Private
+PT00341,Joshua Davis,32.0,Female,B+,135.0,110.0,77.0,26.647309675625994,195.0,88.0,High Cholesterol,Former,5.0,2,2,2023-08-20,Medicare
+PT00057,Ashley Garcia,32.0,,O-,126.0,67.0,76.0,21.5774846346999,200.0,85.0,COPD,Current,4.0,1,1,2023-11-29,Private
+PT00279,Sarah King,,Female,O+,117.0,105.0,81.0,17.847213988763478,169.0,138.0,Depression,Former,5.0,6,3,2023-10-06,Private
+PT00468,Sandra Garcia,56.0,Male,,133.0,84.0,72.0,22.891153235833993,,70.0,Obesity,Current,1.0,3,2,2023-01-04,Medicare
+PT00110,Donald Clark,43.0,Male,O+,136.0,83.0,150.0,33.017676659770885,202.0,180.0,None,Current,2.0,1,1,2023-03-15,Medicaid
+PT00155,Christopher Taylor,49.0,Male,A+,114.0,97.0,70.0,,174.0,,Hypertension,Never,2.0,1,1,2023-11-07,Medicaid
+PT00026,Charles Flores,46.0,Female,,156.0,67.0,81.0,21.168079653659,191.0,117.0,Thyroid Disorder,Never,1.0,2,2,2023-06-12,Private
+PT00266,Joseph Lopez,26.0,Female,B-,131.0,60.0,79.0,27.404816605825495,,97.0,None,Never,6.0,5,2,2023-07-28,Private
+PT00043,Joseph Williams,,Male,,130.0,97.0,78.0,16.0,350.0,118.0,High Cholesterol,Never,3.0,1,1,2023-09-27,Medicare
+PT00313,Elizabeth Brown,57.0,Male,O+,90.0,72.0,63.0,28.45533021722678,177.0,116.0,Thyroid Disorder,Never,4.0,4,0,2023-03-08,Medicare
+PT00413,Linda Scott,21.0,Female,,108.0,66.0,93.0,25.74768476298581,271.0,118.0,High Cholesterol,Former,10.0,4,1,2023-02-19,Medicare
+PT00457,Kimberly Lewis,43.0,Female,B-,143.0,83.0,81.0,16.0,198.0,76.0,Asthma,Never,3.0,2,5,2023-11-08,Other
+PT00285,Paul Garcia,76.0,Female,O+,143.0,83.0,77.0,21.09448143025132,245.0,90.0,Kidney Disease,Never,0.0,0,2,2023-04-08,Medicare
+PT00127,Jennifer Thomas,30.0,Male,B+,133.0,69.0,60.0,20.767313267571993,181.0,78.0,High Cholesterol,Never,0.0,0,3,2023-10-28,Medicare
+PT00335,Donna Johnson,59.0,,A+,116.0,60.0,65.0,28.145890599374994,,143.0,None,Former,0.0,2,3,2023-09-01,Private
+PT00032,Matthew Moore,72.0,Female,A+,136.0,83.0,170.0,21.795093005067258,231.0,70.0,Migraine,Never,5.0,0,0,2023-11-30,Medicaid
+PT00114,Anthony Robinson,81.0,Male,A+,129.0,89.0,76.0,27.964818763089134,187.0,86.0,Depression,Never,2.0,2,3,2023-05-11,Self-Pay
+PT00256,Richard Martinez,37.0,Male,A+,,,67.0,21.240399298853912,185.0,76.0,Hypertension,Never,1.0,1,5,2023-12-23,Other
+PT00219,Linda Taylor,37.0,Female,O+,130.0,110.0,,24.547007613284332,169.0,119.0,Depression,Never,0.0,4,3,2023-10-27,Private
+PT00417,Matthew Lewis,68.0,Male,B+,146.0,70.0,72.0,24.314712569776873,120.0,144.0,Hypertension,Former,5.0,0,2,2023-01-31,Medicare
+PT00058,Patricia Davis,40.0,Male,A-,132.0,76.0,99.0,23.397029111597735,280.0,93.0,Asthma,Former,1.0,1,1,2023-02-11,Medicare
+PT00397,Sarah Williams,19.0,Male,O+,121.0,96.0,82.0,27.233606943493033,160.0,89.0,Asthma,Never,2.0,2,0,2023-08-01,Private
+PT00025,Jennifer Scott,36.0,Female,O+,140.0,88.0,67.0,29.905869283053455,158.0,77.0,Asthma,Never,5.0,1,2,2023-01-23,Private
+PT00018,Nancy Miller,49.0,Male,O+,117.0,100.0,102.0,22.69569618886573,191.0,130.0,Depression,Never,3.0,0,1,2023-04-07,Private
+PT00193,Emily Martinez,48.0,Female,AB-,128.0,60.0,65.0,30.452610888227344,205.0,133.0,Hypertension,Never,5.0,1,1,2023-03-26,Medicaid
+PT00067,Nancy Davis,43.0,Female,O+,90.0,78.0,63.0,25.503998235342216,183.0,163.0,Arthritis,Never,6.0,2,2,2023-01-19,Medicare
+PT00287,Joseph Harris,42.0,Male,,160.0,75.0,,32.72159103993604,188.0,,Diabetes Type 2,Former,2.0,3,2,2023-08-21,Medicaid
+PT00423,Susan Wilson,41.0,Male,O+,131.0,89.0,86.0,28.91340406507593,,70.0,Depression,Never,4.0,3,4,2023-03-04,Private
+PT00095,Linda Thomas,39.0,Female,,130.0,76.0,75.0,24.10824058700117,159.0,113.0,Kidney Disease,Current,6.0,3,4,2023-09-29,Private
+PT00312,William Robinson,61.0,Male,,130.0,60.0,58.0,19.689754883918326,219.0,129.0,Heart Disease,Former,5.0,0,4,2023-03-16,Medicare
+PT00369,Richard Garcia,46.0,Male,A+,149.0,90.0,60.0,28.459577690756934,184.0,117.0,Thyroid Disorder,Former,2.0,2,3,2023-11-16,Self-Pay
+PT00024,Linda Harris,23.0,Male,O+,124.0,70.0,53.0,19.676163584072405,241.0,,Arthritis,Never,6.0,1,4,2023-07-30,Medicare
+PT00272,Emily Hill,23.0,Male,A+,149.0,80.0,61.0,29.132973999979477,192.0,108.0,Migraine,Never,2.0,4,5,2023-08-16,Medicare
+PT00300,Paul Hill,54.0,Male,A+,126.0,73.0,79.0,28.470901071403976,268.0,131.0,Heart Disease,,4.0,5,0,2023-04-16,Self-Pay
+PT00374,Mary Garcia,59.0,Female,A+,109.0,80.0,73.0,26.91269048441338,253.0,70.0,Thyroid Disorder,Former,1.0,1,3,2023-06-16,Other
+PT00006,Margaret Williams,41.0,,O+,102.0,82.0,78.0,51.26464245403571,213.0,71.0,Obesity,Never,2.0,6,2,2023-09-08,Medicare
+PT00117,Nancy Miller,44.0,Male,A+,147.0,88.0,70.0,37.69005702103165,213.0,98.0,Hypertension,Never,3.0,1,1,2023-12-08,Private
+PT00046,Susan Torres,34.0,Male,A+,118.0,69.0,72.0,25.83117609301173,201.0,99.0,Heart Disease,Never,2.0,2,4,2023-03-15,Private
+PT00186,Thomas Hernandez,55.0,Female,O+,93.0,75.0,81.0,16.694800353339424,215.0,98.0,Thyroid Disorder,Never,5.0,3,1,2023-04-13,Private
+PT00017,Barbara Wilson,29.0,Female,B-,116.0,90.0,110.0,27.958882611734712,186.0,92.0,None,Current,2.0,4,3,2023-06-14,Self-Pay
+PT00478,Susan Moore,49.0,Male,O+,151.0,75.0,78.0,24.256177676501792,129.0,161.0,Diabetes Type 2,Never,1.0,4,3,2023-02-16,Medicaid
+PT00368,James King,45.0,Male,A+,134.0,79.0,78.0,23.879480922079505,240.0,81.0,Asthma,Former,2.0,3,5,2023-05-21,Medicare
+PT00004,Michael Wright,67.0,Other,O+,110.0,70.0,,22.74448551492965,234.0,89.0,Heart Disease,Former,5.0,2,2,2023-10-24,Private
+PT00235,Karen Allen,77.0,Male,O+,125.0,76.0,75.0,31.293903367451236,163.0,99.0,COPD,Former,2.0,3,5,2023-11-22,Private
+PT00385,Linda Gonzalez,33.0,Male,O+,130.0,72.0,90.0,30.031827123288544,281.0,147.0,Arthritis,Former,4.0,2,1,2023-02-28,Other
+PT00061,Robert Harris,,Female,O+,166.0,102.0,,25.74065568115049,274.0,146.0,None,Former,1.0,2,3,2023-10-01,Private
+PT00111,Richard Miller,18.0,Female,A+,90.0,100.0,63.0,21.93819052856239,204.0,,Hypertension,Never,1.0,1,2,2023-04-29,Medicare
+PT00410,Barbara Martinez,52.0,Male,O+,158.0,75.0,77.0,21.314414773806334,208.0,100.0,Thyroid Disorder,Never,2.0,1,4,2023-02-13,Private
+PT00421,Michelle Brown,75.0,Male,O+,151.0,92.0,67.0,26.203070434827662,283.0,120.0,Asthma,Current,3.0,1,3,2023-06-18,Medicare
+PT00030,Charles Garcia,40.0,Female,B+,160.0,88.0,50.0,20.854165446270336,227.0,70.0,High Cholesterol,Never,,2,0,2023-07-17,Medicare
+PT00275,Margaret Scott,30.0,Male,A+,130.0,92.0,79.0,21.612726299984498,220.0,93.0,Thyroid Disorder,Current,3.0,2,1,2023-07-05,Medicaid
+PT00303,Margaret Young,56.0,Female,,150.0,63.0,75.0,23.629094714609256,258.0,92.0,Arthritis,Former,3.0,1,3,2023-04-17,Self-Pay
+PT00027,Lisa Torres,27.0,Female,O+,163.0,87.0,80.0,27.305884034872545,350.0,90.0,High Cholesterol,Former,4.0,0,3,2023-08-31,Medicare
+PT00008,Susan Anderson,56.0,Male,AB-,158.0,86.0,91.0,26.643264739771084,169.0,117.0,High Cholesterol,Never,2.0,2,3,2023-08-17,Private
+PT00182,Patricia Garcia,32.0,Male,A+,127.0,97.0,77.0,24.627438502255377,209.0,91.0,Hypertension,Current,2.0,1,2,2023-06-01,Private
+PT00101,Robert Brown,23.0,Female,O+,116.0,73.0,58.0,21.82639845275097,268.0,81.0,None,Current,2.0,2,0,2023-03-31,Self-Pay
+PT00109,Donald Thomas,48.0,Female,O+,,,82.0,25.21818431281714,245.0,125.0,Anxiety,Current,3.0,3,2,2023-10-26,Private
+PT00038,Paul Thomas,18.0,Female,A+,131.0,79.0,73.0,29.687564468114257,164.0,86.0,Asthma,Never,2.0,3,4,2023-10-30,Medicaid
+PT00158,Betty Rodriguez,52.0,Female,A+,121.0,65.0,82.0,28.499833461299247,233.0,,Hypertension,Current,2.0,2,1,2023-04-28,Medicaid
+PT00482,Mary Hill,30.0,Female,A-,121.0,92.0,68.0,,230.0,133.0,Hypertension,Never,3.0,1,0,2023-08-03,Medicare
+PT00119,Richard Wright,62.0,Male,A+,145.0,74.0,,26.551337592923282,204.0,250.0,Osteoporosis,Never,0.0,2,2,2023-08-27,Medicaid
+PT00115,Patricia Miller,42.0,Male,,94.0,79.0,140.0,26.236140461490805,218.0,81.0,Hypertension,Former,5.0,3,1,2023-08-24,Private
+PT00267,Kimberly Robinson,69.0,Female,O-,110.0,60.0,78.0,35.289643800291245,227.0,,COPD,Former,1.0,1,2,2023-05-24,Private
+PT00176,Emily Martinez,57.0,Male,O+,108.0,70.0,89.0,18.74725113375648,237.0,145.0,Anxiety,Current,2.0,2,3,2023-08-14,Medicare
+PT00422,Michelle Miller,71.0,Female,B-,115.0,71.0,73.0,33.16293059112648,214.0,78.0,High Cholesterol,Never,2.0,3,3,2023-12-10,Self-Pay
+PT00350,Barbara Ramirez,41.0,Male,O+,124.0,101.0,79.0,27.13355843170283,162.0,95.0,None,Never,2.0,0,2,2023-11-26,Medicare
+PT00145,Steven Garcia,48.0,Male,A+,126.0,87.0,94.0,28.920657424094056,207.0,250.0,Anxiety,Never,1.0,3,4,2023-12-25,Private
+PT00381,Emily Perez,32.0,Male,O+,,,82.0,19.61832039686731,159.0,113.0,None,,5.0,1,2,2023-11-06,Medicare
+PT00392,Michael Gonzalez,52.0,Male,O+,124.0,82.0,92.0,31.305971381382914,222.0,115.0,Arthritis,Never,3.0,2,5,2023-04-27,Private
+PT00212,Joseph Johnson,62.0,Female,A+,127.0,85.0,77.0,28.356762454138643,163.0,126.0,Migraine,Never,5.0,2,3,2023-10-02,Private
+PT00322,Daniel Anderson,53.0,Female,O+,,,57.0,,174.0,92.0,High Cholesterol,Former,,0,3,2023-07-03,Private
+PT00495,Matthew Gonzalez,,Female,O+,137.0,85.0,50.0,26.153737915437492,287.0,73.0,Heart Disease,Never,5.0,1,3,2023-11-13,Self-Pay
+PT00496,Joshua Allen,53.0,Female,O+,108.0,91.0,69.0,16.0,,300.0,Thyroid Disorder,Current,,1,5,2023-01-26,Self-Pay
+PT00142,Donna Walker,64.0,Female,A+,110.0,96.0,66.0,17.583276527135837,208.0,82.0,Hypertension,Never,3.0,0,0,2023-07-03,Other
+PT00377,Karen Nguyen,58.0,Female,,135.0,95.0,70.0,28.260320050758075,207.0,78.0,Hypertension,Never,2.0,2,3,2023-09-29,Medicare
+PT00068,Charles Ramirez,60.0,Female,A-,135.0,83.0,90.0,27.8825506908531,208.0,75.0,Asthma,Former,4.0,1,2,2023-11-13,Private
+PT00409,Andrew Brown,46.0,Other,O+,145.0,74.0,72.0,24.374186337891874,177.0,103.0,Arthritis,Never,5.0,0,2,2023-02-16,Medicare
+PT00169,David Lewis,41.0,Male,B+,,,76.0,24.72922823665075,231.0,250.0,Anxiety,Former,3.0,1,1,2023-03-12,Private
+PT00183,Margaret Moore,28.0,Female,A+,101.0,69.0,52.0,21.519347660137434,178.0,104.0,Obesity,Former,3.0,1,5,2023-06-17,Medicaid
+PT00434,Joseph Taylor,55.0,Female,A+,138.0,60.0,90.0,55.31339953236609,,114.0,Heart Disease,Current,1.0,2,2,2023-10-23,Medicare
+PT00229,Margaret Smith,34.0,Male,AB+,98.0,64.0,60.0,28.444636198195145,,107.0,Arthritis,,2.0,2,3,2023-10-15,Self-Pay
+PT00194,Margaret Rodriguez,26.0,Male,A+,105.0,91.0,52.0,27.829546689574137,,100.0,Migraine,Never,4.0,5,2,2023-05-12,Other
+PT00082,Patricia Thomas,50.0,Female,O+,138.0,83.0,71.0,28.07412241017937,300.0,,Depression,Former,3.0,3,1,2023-03-27,Medicare
+PT00110,Donald Clark,43.0,Male,O+,136.0,83.0,150.0,33.017676659770885,202.0,180.0,None,Current,2.0,1,1,2023-03-15,Medicaid
+PT00429,Mark Hill,60.0,Male,A+,165.0,86.0,66.0,,235.0,159.0,Thyroid Disorder,Never,,1,2,2023-05-28,Medicare
+PT00146,Elizabeth Jones,56.0,Male,A+,119.0,68.0,84.0,29.0693317307039,208.0,71.0,Obesity,Former,4.0,5,0,2023-06-01,Private
+PT00093,Lisa Lewis,34.0,Male,A+,151.0,63.0,78.0,31.0329785763885,191.0,220.0,Hypertension,Never,34.74263204766646,1,1,2023-03-16,Private
+PT00153,Anthony Nguyen,34.0,Female,,126.0,94.0,90.0,26.857547740974216,206.0,121.0,High Cholesterol,Former,7.0,1,3,2023-12-18,Private
+PT00480,Charles Lewis,61.0,Male,,122.0,101.0,70.0,25.222252656853367,164.0,100.0,Obesity,Never,2.0,3,1,2023-04-21,Medicaid
+PT00249,Mark Wilson,71.0,Female,O+,147.0,63.0,71.0,31.16902688004312,222.0,70.0,Arthritis,Former,6.0,1,5,2023-05-01,Medicaid
+PT00084,Jennifer Young,37.0,Female,A+,107.0,70.0,60.0,30.335965309594698,191.0,125.0,Obesity,Never,2.0,2,1,2023-06-03,Medicaid
+PT00104,Robert Allen,32.0,Female,O+,126.0,60.0,76.0,34.00649165888794,227.0,79.0,None,Former,4.0,3,2,2023-07-15,Medicare
+PT00166,William Thompson,51.0,Male,O+,136.0,80.0,66.0,17.563881250321494,262.0,122.0,Asthma,Never,0.0,2,0,2023-12-14,Medicare
+PT00164,Paul Wilson,32.0,Male,O+,115.0,74.0,72.0,27.271707546492603,199.0,127.0,None,Never,3.0,3,2,2023-11-14,Private
+PT00200,Anthony Flores,27.0,Male,,128.0,89.0,,27.822398639232457,208.0,132.0,Diabetes Type 2,Former,2.0,1,2,2023-02-08,Medicaid
+PT00246,Margaret Nguyen,39.0,Male,AB+,135.0,100.0,85.0,30.155599989969524,,71.0,Kidney Disease,Former,,1,1,2023-09-10,Other
+PT00075,Barbara White,18.0,Female,O+,97.0,60.0,53.0,25.715297706376035,,103.0,Asthma,Former,5.0,2,2,2023-02-16,Private
+PT00317,Nancy Harris,55.0,Female,A+,107.0,94.0,69.0,27.162433092096837,239.0,,Hypertension,Never,0.0,0,2,2023-02-26,Private
+PT00230,Kimberly Wright,55.0,Female,B-,,,77.0,23.718484837386903,196.0,100.0,High Cholesterol,Former,4.0,1,5,2023-06-17,Private
+PT00485,James Scott,33.0,Female,,117.0,63.0,69.0,26.52629850511667,155.0,121.0,Anxiety,Former,1.0,1,3,2023-03-22,Private
+PT00120,Mark Rodriguez,56.0,Male,O-,120.0,60.0,60.0,29.083805465864902,196.0,101.0,Osteoporosis,Former,1.0,1,2,2023-05-28,Self-Pay
+PT00387,Paul Lopez,50.0,Female,O+,130.0,86.0,85.0,,141.0,127.0,Hypertension,Former,4.0,1,3,2023-11-30,Private
+PT00443,Mark Davis,18.0,Female,A+,108.0,96.0,79.0,20.16174108941787,135.0,99.0,Hypertension,Former,1.0,2,0,2023-10-12,Medicaid
+PT00262,Matthew Young,44.0,Female,O+,125.0,73.0,97.0,27.45123282833516,202.0,70.0,COPD,Never,3.0,7,3,2023-12-02,Private
+PT00365,Thomas Perez,55.0,Female,O+,151.0,80.0,63.0,17.33265250981906,258.0,114.0,High Cholesterol,Former,2.0,2,1,2023-03-17,Private
+PT00412,Jennifer Thomas,28.0,Male,O+,118.0,93.0,65.0,56.604697213644315,205.0,124.0,Arthritis,Former,2.0,0,1,2023-08-10,Private
+PT00336,Karen Torres,42.0,Male,O+,148.0,73.0,86.0,30.158187794757886,174.0,90.0,None,Never,4.0,1,1,2023-08-18,Medicare
+PT00263,Betty Thomas,18.0,Male,A+,100.0,73.0,75.0,21.367664908794413,206.0,119.0,Hypertension,Current,0.0,1,0,2023-02-20,Medicare
+PT00481,Ashley Davis,43.0,Female,B+,135.0,75.0,78.0,31.00064667876991,228.0,109.0,None,Current,1.0,1,3,2023-07-12,Medicaid
+PT00419,Donna Ramirez,62.0,Female,O-,129.0,86.0,69.0,28.602509415384873,160.0,103.0,Anxiety,Former,1.0,2,0,2023-10-15,Medicare
+PT00395,Karen Smith,62.0,Female,A+,153.0,71.0,89.0,26.377088713062303,278.0,129.0,Hypertension,Former,2.0,2,0,2023-08-21,Private
+PT00281,Sarah Lewis,46.0,Male,A+,127.0,74.0,91.0,22.465476104312014,218.0,82.0,Kidney Disease,Former,6.0,3,1,2023-07-03,Medicare
+PT00037,Joshua Hernandez,48.0,Female,O+,125.0,76.0,69.0,26.11428754922562,168.0,99.0,Diabetes Type 2,Never,,2,2,2023-09-15,Private
+PT00197,Daniel Wilson,31.0,Male,A+,103.0,81.0,91.0,30.32622475171971,246.0,139.0,Hypertension,Never,6.0,4,3,2023-06-23,Medicare
+PT00140,Patricia Lee,26.0,Female,O+,142.0,95.0,71.0,23.53304625145055,200.0,84.0,None,Never,3.0,1,1,2023-07-15,Medicare
+PT00376,Betty Thomas,33.0,Male,A+,135.0,82.0,76.0,24.614734498604545,263.0,80.0,Hypertension,Never,4.0,0,2,2023-11-02,Medicare
+PT00494,Emily Martinez,32.0,Female,A+,104.0,83.0,50.0,29.21186295820784,260.0,82.0,Asthma,Never,4.0,2,4,2023-03-22,Private
+PT00292,Anthony Brown,37.0,Male,A-,,,69.0,24.366686207749066,213.0,129.0,Migraine,,5.0,1,1,2023-11-24,Private
+PT00407,Robert Sanchez,28.0,Female,,240.0,150.0,71.0,22.325981463948207,,92.0,High Cholesterol,Never,,2,2,2023-08-31,Private
+PT00060,Margaret Hill,59.0,Male,O+,128.0,92.0,74.0,24.07157667974734,218.0,85.0,Obesity,Never,4.0,3,2,2023-12-12,Medicare
+PT00473,Sandra Clark,22.0,Female,O+,111.0,84.0,69.0,21.54872789975673,,117.0,COPD,Never,1.0,1,0,2023-07-25,Medicaid
+PT00112,Michael Ramirez,44.0,Female,A-,161.0,88.0,80.0,24.565151817438185,206.0,111.0,Asthma,Never,5.0,1,2,2023-08-25,Private
+PT00090,Margaret Wilson,52.0,Male,AB+,134.0,69.0,90.0,25.005751282411744,154.0,116.0,Thyroid Disorder,Former,,3,1,2023-07-03,Self-Pay
+PT00418,Mark Martin,46.0,Female,O+,110.0,60.0,52.0,26.6895826045903,152.0,70.0,Depression,Current,3.0,3,4,2023-10-28,Medicaid
+PT00007,Mary Garcia,68.0,Female,A+,156.0,91.0,68.0,16.0,185.0,,Hypertension,Never,2.0,4,1,2023-03-18,Private
+PT00372,Jessica Walker,52.0,Male,O+,90.0,60.0,66.0,25.86697447481509,230.0,116.0,Heart Disease,Current,2.0,1,3,2023-10-08,Other
+PT00355,Donna Moore,44.0,Other,O+,133.0,75.0,62.0,23.813962765260573,350.0,83.0,Thyroid Disorder,Former,,1,5,2023-08-07,Private
+PT00347,Anthony Young,23.0,Female,B+,143.0,60.0,83.0,16.4896517572678,222.0,104.0,Obesity,Never,1.0,5,1,2023-09-24,Private
+PT00159,Karen Robinson,27.0,Male,AB+,142.0,82.0,66.0,,206.0,89.0,COPD,Never,2.0,0,1,2023-11-07,Other
+PT00151,Joshua Williams,48.0,Female,B+,113.0,89.0,68.0,32.03059217387141,,106.0,Heart Disease,Current,0.0,4,3,2023-01-05,Private
+PT00393,Charles Anderson,25.0,Male,O+,118.0,62.0,73.0,26.16249931443931,233.0,,High Cholesterol,Current,1.0,1,1,2023-07-31,Private
+PT00039,David Robinson,25.0,Female,O+,,,70.0,26.251859483364985,154.0,149.0,Heart Disease,Never,4.0,2,1,2023-06-19,Medicaid
+PT00323,Robert Williams,32.0,Female,O+,120.0,76.0,52.0,30.58284090322151,132.0,115.0,None,Never,,2,4,2023-05-02,Medicaid
+PT00199,Daniel Scott,45.0,Female,O+,120.0,77.0,80.0,20.309708406723665,,70.0,Arthritis,Former,6.0,2,3,2023-08-28,Medicaid
+PT00450,Christopher Hill,29.0,Female,A-,144.0,74.0,77.0,33.020829700501984,148.0,142.0,Migraine,Never,5.0,3,0,2023-10-15,Medicare
+PT00147,Joshua Jones,26.0,Male,O+,99.0,60.0,88.0,22.277197298034853,164.0,98.0,Obesity,Current,7.0,7,0,2023-01-12,Private
+PT00405,Patricia Taylor,38.0,Female,O+,,,74.0,29.745069775370656,120.0,70.0,None,Never,2.0,2,3,2023-03-20,Medicare
+PT00148,Jessica Sanchez,25.0,Male,A+,108.0,89.0,69.0,23.92813669147408,220.0,73.0,Asthma,Never,2.0,5,1,2023-12-04,Other
+PT00315,Christopher Wilson,64.0,Female,O+,160.0,73.0,74.0,28.54242778073687,202.0,167.0,Hypertension,Never,3.0,0,1,2023-05-09,Medicare
+PT00490,Charles Allen,58.0,Female,O+,157.0,107.0,74.0,24.02922114407601,265.0,105.0,Asthma,Current,0.0,2,4,2023-11-02,Medicare
+PT00124,Mark Scott,23.0,Male,O+,109.0,77.0,77.0,28.077753707371155,199.0,107.0,Hypertension,Never,1.0,1,3,2023-02-07,Medicare
+PT00403,Donald Lewis,45.0,Female,A+,112.0,85.0,91.0,19.83193287982047,184.0,,Hypertension,Former,5.0,4,4,2023-05-11,Medicaid
+PT00097,Nancy Johnson,49.0,Female,O+,133.0,79.0,73.0,53.62181602794151,221.0,250.0,Obesity,Former,1.0,0,0,2023-10-17,Medicare
+PT00144,David Brown,47.0,Male,A+,95.0,105.0,58.0,24.80923532478071,233.0,70.0,Hypertension,Never,2.0,1,0,2023-06-01,Private
+PT00240,Anthony Harris,57.0,Female,O+,117.0,73.0,65.0,,222.0,70.0,Hypertension,Never,3.0,1,3,2023-07-29,Private
+PT00407,Robert Sanchez,28.0,Female,,240.0,150.0,71.0,22.325981463948207,,92.0,High Cholesterol,Never,,2,2,2023-08-31,Private
+PT00098,Donna Scott,48.0,Male,O+,134.0,83.0,77.0,33.44901315785677,156.0,,Diabetes Type 2,Current,2.0,0,0,2023-12-16,Private
+PT00361,Nancy Johnson,52.0,Male,O+,142.0,79.0,83.0,33.71848880496207,248.0,,Osteoporosis,Never,4.0,3,2,2023-02-07,Medicare
+PT00123,Jessica Jones,66.0,Male,O+,132.0,76.0,74.0,22.61404881173353,163.0,90.0,Anxiety,Former,3.0,1,0,2023-03-22,Medicare
+PT00184,John Smith,52.0,Female,A+,92.0,75.0,64.0,27.51718593124912,120.0,113.0,Asthma,Current,1.0,2,3,2023-08-01,Medicaid
+PT00203,Anthony Johnson,61.0,Male,O+,136.0,77.0,95.0,,216.0,70.0,Hypertension,Former,3.0,2,4,2023-12-13,Medicare
+PT00247,Joshua Lee,37.0,Male,A+,112.0,80.0,81.0,,181.0,71.0,Depression,Former,1.0,3,3,2023-03-01,Medicare
+PT00483,Jessica Hernandez,20.0,Female,A+,144.0,84.0,64.0,,,96.0,Asthma,Never,3.0,4,1,2023-08-21,Medicaid
+PT00306,David Robinson,46.0,Female,O+,104.0,64.0,82.0,24.948390022480726,218.0,70.0,Heart Disease,Former,3.0,1,2,2023-04-30,Private
+PT00362,Ashley Lee,67.0,Female,A+,240.0,140.0,78.0,26.42694305067479,283.0,70.0,Obesity,Former,1.0,4,3,2023-02-11,Medicaid
+PT00308,Paul Johnson,36.0,Female,O+,124.0,75.0,67.0,17.6210410828175,208.0,121.0,Hypertension,Never,1.0,2,3,2023-03-17,Private
+PT00408,Ashley Jones,42.0,Male,B+,114.0,85.0,91.0,17.71653740220205,249.0,70.0,Asthma,Former,,2,2,2023-02-04,Private
+PT00291,Paul Robinson,41.0,Female,B+,163.0,66.0,54.0,25.13408080301913,200.0,70.0,Diabetes Type 2,Never,2.0,2,6,2023-11-25,Medicaid
+PT00126,Paul Smith,77.0,Female,O+,98.0,72.0,89.0,27.343592636523343,207.0,91.0,Diabetes Type 2,Former,0.0,2,1,2023-06-26,Medicare
+PT00311,Jennifer Ramirez,41.0,Female,O+,129.0,61.0,75.0,26.069909079846624,188.0,70.0,Depression,Never,2.0,3,3,2023-05-22,Private
+PT00224,Christopher Ramirez,20.0,Male,O+,90.0,78.0,55.0,31.996683904641255,275.0,119.0,Anxiety,Former,2.0,3,1,2023-12-12,Self-Pay
+PT00441,Karen Hill,50.0,Female,A+,143.0,81.0,82.0,26.59829652259467,231.0,94.0,Anxiety,Current,3.0,4,2,2023-02-25,Medicare
+PT00220,Elizabeth Nguyen,46.0,Female,,158.0,86.0,74.0,23.029421847560076,,70.0,Diabetes Type 2,Never,1.0,1,0,2023-07-15,Medicare
+PT00130,Susan Sanchez,37.0,Male,A+,111.0,107.0,80.0,22.447349603368963,,133.0,Thyroid Disorder,Never,5.0,4,2,2023-08-06,Private
+PT00433,Sandra Jones,40.0,Male,B+,123.0,71.0,87.0,29.99029936676171,212.0,100.0,Heart Disease,Never,4.0,3,3,2023-02-23,Medicare
+PT00491,Sarah Clark,44.0,Male,O+,146.0,84.0,79.0,22.128492889475726,238.0,122.0,Depression,Former,7.0,2,3,2023-02-13,Self-Pay
+PT00337,Matthew Sanchez,32.0,Female,O+,94.0,93.0,81.0,24.89182556714598,186.0,78.0,Hypertension,Current,4.0,3,2,2023-07-05,Private
+PT00389,Donald Moore,59.0,Male,O+,115.0,61.0,88.0,29.530642745546633,204.0,87.0,Arthritis,Former,1.0,2,2,2023-04-21,Medicare
+PT00298,Karen Harris,49.0,Female,O+,122.0,93.0,71.0,26.647698196030234,284.0,,Arthritis,Current,2.0,1,1,2023-03-06,Private
+PT00366,Sarah Hill,38.0,Male,AB-,126.0,75.0,67.0,27.107466535664162,205.0,250.0,Anxiety,Never,,2,3,2023-02-03,Private
+PT00302,Joseph Moore,36.0,Female,A-,108.0,92.0,74.0,25.686920906935388,178.0,83.0,COPD,Never,4.0,5,3,2023-10-11,Private
+PT00295,Mary Torres,50.0,Male,,127.0,81.0,50.0,23.222776035674993,,120.0,Depression,Never,0.0,3,2,2023-01-26,Private
+PT00378,Lisa Walker,47.0,Male,O+,135.0,84.0,50.0,19.9539273475841,224.0,89.0,COPD,Former,5.0,1,1,2023-05-31,Medicaid
+PT00349,Lisa Robinson,34.0,Male,O+,183.0,87.0,150.0,26.714748050576944,219.0,98.0,Obesity,Never,2.0,3,2,2023-08-23,Private
+PT00113,Daniel Ramirez,45.0,Male,A+,111.0,92.0,64.0,27.47993952421481,,82.0,Obesity,Never,2.0,5,1,2023-11-23,Private
+PT00180,Thomas Allen,85.0,Female,A-,111.0,73.0,72.0,58.42554501465182,141.0,105.0,Anxiety,,1.0,1,1,2023-03-09,Medicare
+PT00453,Andrew Nguyen,30.0,Female,A+,120.0,75.0,76.0,20.255742950353557,,84.0,Heart Disease,Never,4.0,2,2,2023-12-12,Medicare
+PT00348,Michael Ramirez,23.0,Female,A+,132.0,85.0,108.0,59.53703626491708,264.0,132.0,High Cholesterol,Never,3.0,2,1,2023-06-04,Private
+PT00339,Donna Thomas,51.0,,A+,117.0,65.0,74.0,24.371347723747764,179.0,89.0,High Cholesterol,Current,3.0,2,1,2023-10-31,Medicare
+PT00498,Sarah Clark,42.0,Female,,105.0,96.0,56.0,27.674190975123107,162.0,119.0,Heart Disease,Never,2.0,2,1,2023-02-11,Medicare
+PT00371,Ashley Scott,45.0,Male,A+,158.0,86.0,,22.32275539803978,182.0,78.0,Asthma,Former,2.0,1,0,2023-10-27,Private
+PT00234,Christopher Davis,35.0,Female,A-,116.0,89.0,84.0,29.34904049004669,165.0,110.0,Hypertension,Never,3.0,3,3,2023-02-02,Private
+PT00461,Donald Thompson,74.0,Female,A+,119.0,106.0,75.0,28.30027170723222,261.0,78.0,High Cholesterol,Former,2.0,1,2,2023-01-15,Medicaid
+PT00463,Christopher Miller,34.0,Female,B+,156.0,67.0,71.0,22.062623475561224,201.0,117.0,None,Never,5.0,5,3,2023-05-20,Self-Pay
+PT00165,Steven Taylor,59.0,Male,O-,109.0,64.0,,20.93485244188581,197.0,70.0,Arthritis,Never,3.0,1,1,2023-05-09,Private
+PT00137,Richard Jackson,33.0,Female,O+,136.0,90.0,89.0,38.97155092387055,267.0,143.0,Thyroid Disorder,Never,0.0,1,1,2023-09-05,Private
+PT00198,Jessica Miller,47.0,Male,O-,121.0,70.0,83.0,30.049784066762538,200.0,70.0,COPD,Never,4.0,2,2,2023-02-28,Private
+PT00259,Michelle Jones,51.0,Other,O+,124.0,65.0,88.0,23.44650693245118,178.0,119.0,Diabetes Type 2,Current,4.0,3,0,2023-10-28,Medicaid
+PT00233,Nancy Flores,45.0,,O+,121.0,77.0,85.0,21.41422254314476,,92.0,Anxiety,Former,3.0,1,1,2023-11-28,Private
+PT00116,Patricia Sanchez,49.0,Male,O+,117.0,93.0,53.0,19.607900388214258,224.0,71.0,Heart Disease,Former,2.0,0,1,2023-05-11,Private
+PT00121,Margaret Lopez,56.0,Female,A+,133.0,92.0,70.0,22.817473186752352,278.0,110.0,Kidney Disease,Never,4.0,1,1,2023-12-13,Private
+PT00370,Jessica Clark,33.0,Male,B+,120.0,105.0,87.0,26.205625343209384,120.0,118.0,High Cholesterol,Never,6.0,0,2,2023-11-21,Medicare
+PT00225,Joshua Allen,37.0,Male,A+,132.0,72.0,71.0,19.704671870346267,147.0,140.0,Asthma,Never,2.0,1,1,2023-04-30,Private
+PT00415,Joshua Flores,49.0,,A+,110.0,89.0,94.0,28.942503931305975,245.0,111.0,Migraine,Never,3.0,0,4,2023-03-08,Medicare
+PT00356,Christopher Thomas,29.0,Male,O+,149.0,72.0,77.0,17.87109200962408,157.0,84.0,Diabetes Type 2,Never,4.0,2,2,2023-12-18,Medicare
+PT00128,David Clark,36.0,Female,B+,155.0,81.0,80.0,21.85541782996897,204.0,77.0,None,Former,1.0,1,1,2023-06-03,Private
+PT00286,William Martinez,18.0,Male,,90.0,81.0,50.0,,151.0,94.0,Depression,Current,5.0,2,1,2023-03-04,Medicare
+PT00424,Thomas Garcia,59.0,Male,A+,139.0,92.0,77.0,23.746604917511338,249.0,103.0,Asthma,Never,5.0,3,2,2023-07-30,Medicaid
+PT00108,Andrew Torres,47.0,Female,A-,121.0,75.0,51.0,28.94559089386328,214.0,280.0,Migraine,Former,5.0,2,3,2023-09-12,Private
+PT00382,Daniel Robinson,36.0,Female,A+,111.0,89.0,66.0,21.84891640553864,158.0,70.0,Diabetes Type 2,Never,3.0,1,2,2023-08-09,Private
+PT00334,Karen Miller,34.0,Male,O+,124.0,65.0,50.0,16.46863838999647,204.0,89.0,Hypertension,Never,1.0,1,1,2023-02-02,Medicare
+PT00134,Sandra Jackson,52.0,Female,O+,122.0,79.0,57.0,26.754554818125346,234.0,70.0,Arthritis,Current,2.0,0,0,2023-06-04,Medicaid
+PT00375,Charles Anderson,77.0,Female,O+,116.0,91.0,69.0,29.13477374128066,,300.0,Hypertension,Never,1.0,3,1,2023-07-15,Private
+PT00045,Sarah Jones,22.0,Other,O+,127.0,73.0,63.0,32.04341005417651,161.0,70.0,Depression,Current,4.0,1,0,2023-01-08,Other
+PT00477,Mark Brown,53.0,Male,O+,109.0,86.0,74.0,23.070470196594123,,85.0,Hypertension,Current,,3,2,2023-01-16,Private
+PT00066,Paul Moore,65.0,Female,A+,137.0,93.0,75.0,16.0,,111.0,Kidney Disease,Former,4.0,2,1,2023-10-05,Medicare
+PT00284,Nancy Lee,,Male,O+,142.0,81.0,61.0,19.199726727911994,233.0,76.0,None,Never,3.0,5,3,2023-05-22,Private
+PT00086,William Rodriguez,37.0,Male,,122.0,76.0,68.0,31.78776595837656,166.0,79.0,Obesity,Former,1.0,1,1,2023-01-24,Self-Pay
+PT00243,Betty Scott,52.0,Male,O+,143.0,94.0,67.0,30.003827133697953,136.0,128.0,Arthritis,Never,5.0,2,5,2023-01-24,Medicare
+PT00187,Mark Scott,52.0,Female,AB+,138.0,69.0,50.0,26.56328844375323,227.0,98.0,None,Current,33.39426832789821,2,4,2023-03-09,Other
+PT00396,Paul Rodriguez,37.0,Male,,113.0,61.0,62.0,20.87535966707116,178.0,75.0,High Cholesterol,Never,4.0,2,4,2023-07-24,Medicare
+PT00160,Christopher Jones,54.0,Female,B+,90.0,68.0,72.0,23.88642770153645,239.0,,Asthma,Former,1.0,3,3,2023-06-30,Private
+PT00013,Mark Nguyen,48.0,Female,A+,147.0,87.0,78.0,25.1743853888908,222.0,94.0,Hypertension,Never,2.0,0,2,2023-10-10,Medicaid
+PT00036,Sarah Jones,26.0,Female,B+,108.0,86.0,73.0,26.132766768997342,241.0,70.0,Obesity,Never,4.0,0,1,2023-03-06,Medicaid
+PT00029,John Anderson,35.0,Female,A+,140.0,70.0,60.0,25.000085507216102,243.0,111.0,None,Never,3.0,3,4,2023-07-15,Medicaid
+PT00171,Michelle King,31.0,Male,O+,105.0,77.0,58.0,32.04466069851285,247.0,70.0,Depression,Current,1.0,5,2,2023-02-19,Self-Pay
+PT00143,Steven King,20.0,Female,A+,138.0,73.0,86.0,,450.0,70.0,Heart Disease,Never,5.0,1,4,2023-10-22,Private
+PT00411,Andrew Martin,,Male,O+,120.0,80.0,160.0,22.748421600689536,218.0,97.0,None,Former,3.0,1,1,2023-02-17,Private
+PT00437,Paul Anderson,69.0,Male,A+,130.0,73.0,74.0,19.889119674244938,155.0,72.0,Heart Disease,Former,4.0,4,3,2023-03-21,Self-Pay
+PT00222,Michael Hill,18.0,Female,B+,,,77.0,32.416895825233254,247.0,,Depression,Current,3.0,3,2,2023-07-10,Medicaid
+PT00096,Joseph Jones,23.0,Female,A+,143.0,72.0,71.0,26.726590276628688,283.0,81.0,Asthma,Never,3.0,0,2,2023-07-30,Other
+PT00052,Paul Taylor,39.0,Male,A-,115.0,80.0,78.0,28.09324010408453,164.0,102.0,Arthritis,Never,3.0,2,2,2023-05-16,Private
+PT00241,Elizabeth Flores,,Male,O+,137.0,95.0,79.0,28.61519816481779,207.0,86.0,Diabetes Type 2,Former,1.0,1,4,2023-03-01,Private
+PT00384,Thomas Anderson,37.0,Male,A+,119.0,70.0,52.0,,,97.0,None,Current,5.0,2,2,2023-12-26,Medicaid
+PT00352,Sarah Flores,67.0,Female,O+,116.0,89.0,77.0,26.01604933881749,186.0,102.0,Thyroid Disorder,Never,5.0,2,2,2023-02-01,Private
+PT00391,Joshua Jackson,31.0,Female,A+,121.0,71.0,61.0,28.416624136264012,160.0,95.0,Asthma,Never,2.0,3,3,2023-08-20,Medicaid
+PT00179,Nancy Wilson,41.0,Male,O+,137.0,109.0,56.0,21.492524465529222,170.0,250.0,Depression,Former,4.0,5,2,2023-07-06,Medicare
+PT00042,Christopher Brown,47.0,Female,A+,132.0,76.0,81.0,24.361314248660005,167.0,,None,Former,3.0,2,0,2023-02-21,Private
+PT00449,John Ramirez,37.0,Female,O-,141.0,76.0,68.0,21.592875469163232,,74.0,Hypertension,Never,5.0,6,1,2023-08-08,Self-Pay
+PT00400,Ashley Miller,63.0,Male,O+,116.0,91.0,75.0,24.329559206123328,200.0,91.0,Obesity,Never,2.0,0,2,2023-08-07,Private
+PT00207,Michael Harris,52.0,Male,O+,154.0,94.0,90.0,25.74469667442509,167.0,99.0,COPD,Former,3.0,3,0,2023-07-07,Private
+PT00283,Jessica Moore,68.0,Female,A+,149.0,60.0,110.0,25.138349216377172,180.0,105.0,Osteoporosis,Current,3.0,1,2,2023-07-23,Private
+PT00359,Sandra Torres,49.0,Male,O+,110.0,60.0,86.0,33.94147076027472,209.0,70.0,Hypertension,Former,3.0,1,4,2023-12-31,Private
+PT00255,Karen Anderson,22.0,Female,A+,129.0,61.0,68.0,16.0,159.0,70.0,Hypertension,Never,4.0,0,1,2023-12-10,Private
+PT00425,David Thomas,54.0,Female,A+,,,78.0,23.776654661505475,141.0,107.0,Obesity,Never,0.0,0,2,2023-07-01,Private
+PT00005,Jennifer Nguyen,41.0,Female,O+,136.0,93.0,73.0,56.42110235025521,203.0,124.0,High Cholesterol,Former,0.0,3,6,2023-12-04,Private
+PT00257,Mary Williams,64.0,Female,,,,73.0,28.19534277945085,162.0,70.0,Hypertension,Current,4.0,2,1,2023-10-04,Medicare
+PT00462,Anthony Perez,45.0,Male,A-,124.0,80.0,80.0,27.132526760576443,179.0,83.0,Depression,Current,2.0,2,3,2023-04-03,Private
+PT00101,Robert Brown,23.0,Female,O+,116.0,73.0,58.0,21.82639845275097,268.0,81.0,None,Current,2.0,2,0,2023-03-31,Self-Pay
+PT00227,Andrew Gonzalez,,Female,B+,135.0,77.0,86.0,31.11888150810408,215.0,133.0,Arthritis,Never,1.0,2,2,2023-01-13,Medicare
+PT00440,Patricia Hernandez,44.0,Male,A+,137.0,72.0,75.0,17.226056289388065,258.0,,None,Former,4.0,1,7,2023-04-25,Medicare
+PT00214,Nancy Moore,54.0,Male,A+,130.0,90.0,64.0,24.62305020590963,234.0,92.0,Hypertension,Never,5.0,0,0,2023-08-21,Medicaid
+PT00435,Donna Gonzalez,67.0,Female,O+,125.0,95.0,73.0,25.489334708796495,226.0,85.0,Arthritis,Never,2.0,2,3,2023-09-17,Other
+PT00172,James Scott,32.0,Female,O-,157.0,91.0,76.0,22.69253628035931,162.0,83.0,Arthritis,Never,5.0,3,2,2023-11-18,Other
+PT00099,Joseph Nguyen,45.0,Female,O-,141.0,92.0,63.0,21.947557088133415,207.0,104.0,Asthma,,2.0,2,2,2023-04-03,Other
+PT00293,Susan Clark,36.0,Female,B-,98.0,60.0,51.0,54.70816419365898,201.0,118.0,Migraine,Never,1.0,1,2,2023-11-02,Private
+PT00216,Daniel Allen,56.0,Female,AB+,147.0,70.0,73.0,26.94116636350567,133.0,86.0,Osteoporosis,Never,3.0,2,2,2023-12-11,Private
+PT00062,Matthew Hill,42.0,Female,O+,96.0,82.0,74.0,25.318345787671582,249.0,78.0,Depression,Former,2.0,2,1,2023-07-14,Medicare
+PT00048,Ashley Sanchez,,Male,A+,128.0,80.0,77.0,31.83392496601604,277.0,89.0,Obesity,Current,2.0,2,2,2023-12-02,Private
+PT00033,Sandra White,44.0,Male,O+,,,50.0,23.978772004013855,,70.0,Hypertension,Former,3.0,1,0,2023-03-19,Self-Pay
+PT00268,Patricia Scott,,Female,B+,125.0,75.0,52.0,30.854024262686014,169.0,71.0,Diabetes Type 2,Never,3.0,2,2,2023-01-17,Medicaid
+PT00328,Donald Davis,56.0,,A+,154.0,80.0,71.0,26.663939075385322,167.0,108.0,Diabetes Type 2,Never,,1,4,2023-05-16,Medicare
+PT00201,Barbara Thomas,50.0,Female,B+,121.0,70.0,68.0,29.264119377598927,219.0,93.0,Hypertension,Never,4.0,1,1,2023-03-14,Medicare
+PT00484,Karen Scott,48.0,Male,B+,117.0,75.0,67.0,32.1487756527899,198.0,83.0,Diabetes Type 2,Former,4.0,3,1,2023-06-24,Self-Pay
+PT00028,Richard Jones,,Male,O+,132.0,64.0,87.0,31.11600486673993,163.0,70.0,High Cholesterol,Never,1.0,0,1,2023-12-28,Medicare
+PT00426,Elizabeth Scott,,Female,A-,115.0,85.0,61.0,,180.0,137.0,COPD,Former,2.0,0,1,2023-12-07,Private
+PT00231,Richard White,34.0,Female,A+,125.0,81.0,83.0,33.6446449740687,180.0,121.0,High Cholesterol,Former,5.0,5,1,2023-11-09,Other
+PT00261,Andrew Gonzalez,31.0,Male,,220.0,150.0,66.0,36.21512900924495,240.0,111.0,Anxiety,Never,4.0,1,0,2023-08-01,Private
+PT00379,Emily King,77.0,Male,O+,100.0,98.0,70.0,23.50139750290104,236.0,106.0,Arthritis,Former,3.0,2,4,2023-08-21,Medicare
+PT00289,Robert Clark,49.0,Male,B+,139.0,70.0,98.0,24.443260564436514,450.0,130.0,Asthma,Current,3.0,2,1,2023-12-06,Medicaid
+PT00163,Michael Jones,,Female,A+,121.0,77.0,74.0,22.53344627205416,222.0,70.0,None,Never,8.0,3,1,2023-04-08,Private
+PT00438,Barbara Moore,24.0,Female,AB+,117.0,62.0,79.0,28.098554101793383,201.0,70.0,High Cholesterol,Current,1.0,2,1,2023-12-03,Other
+PT00139,Donna Wright,57.0,Female,O+,127.0,84.0,,,191.0,,High Cholesterol,Never,1.0,1,2,2023-05-02,Private
+PT00063,Sandra King,28.0,Male,A-,123.0,81.0,65.0,36.74776631866405,222.0,161.0,None,Former,4.0,2,2,2023-06-12,Medicaid
+PT00136,Ashley Martinez,68.0,Female,A+,144.0,67.0,70.0,32.28539884240535,149.0,164.0,Migraine,,4.0,4,1,2023-07-16,Private
+PT00129,Ashley Walker,46.0,Female,,92.0,94.0,89.0,,205.0,70.0,Anxiety,Never,48.40779663000073,1,2,2023-11-24,Medicare
+PT00493,Jessica Robinson,46.0,Female,O+,149.0,72.0,90.0,21.77835775605248,187.0,220.0,Diabetes Type 2,Never,1.0,4,2,2023-03-21,Medicaid
+PT00009,Steven Hill,37.0,Female,O-,135.0,97.0,80.0,23.229631363830052,185.0,97.0,COPD,Current,47.58369835558196,1,1,2023-10-03,Self-Pay
+PT00327,Jessica Rodriguez,62.0,Male,A+,153.0,81.0,65.0,21.790031101191996,217.0,70.0,Diabetes Type 2,Never,34.70057574236267,2,3,2023-03-31,Medicaid
+PT00479,Emily Rodriguez,90.0,Female,A+,116.0,77.0,96.0,27.319515586093793,131.0,149.0,Migraine,Never,3.0,2,4,2023-09-29,Medicaid
+PT00065,James Davis,57.0,Male,O+,130.0,94.0,77.0,22.245502645194573,199.0,102.0,Hypertension,Former,6.0,3,2,2023-09-07,Private
+PT00301,Joseph Young,32.0,Female,A+,138.0,87.0,64.0,29.333530304293046,169.0,,Obesity,Former,1.0,1,1,2023-02-05,Private
+PT00015,David Ramirez,19.0,Male,O+,97.0,74.0,87.0,28.92341640958961,232.0,,Arthritis,Never,1.0,1,0,2023-07-13,Self-Pay
+PT00157,Jessica Taylor,72.0,Male,O+,131.0,60.0,58.0,23.876388919306393,154.0,89.0,Hypertension,Never,1.0,1,1,2023-05-27,Private
+PT00041,Emily Anderson,56.0,Male,O+,122.0,80.0,66.0,31.392667730314734,224.0,300.0,High Cholesterol,Current,3.0,4,1,2023-08-14,Medicaid
+PT00380,Daniel Ramirez,32.0,Female,O+,,,71.0,25.48665695717036,144.0,98.0,Asthma,Never,3.0,1,2,2023-09-16,Private
+PT00474,Patricia Gonzalez,65.0,Female,A+,123.0,71.0,63.0,18.387926528666302,192.0,145.0,Heart Disease,Never,3.0,1,1,2023-02-05,Medicare
+PT00416,Joseph King,33.0,Male,,108.0,89.0,70.0,29.334361725378955,207.0,97.0,Diabetes Type 2,Former,4.0,2,1,2023-10-12,Medicaid
+PT00217,Betty Wright,,Female,A+,125.0,78.0,73.0,27.945849051117243,292.0,99.0,Migraine,Never,5.0,0,7,2023-12-11,Private
+PT00280,Ashley Thomas,39.0,Female,O+,250.0,150.0,62.0,26.27631297939509,219.0,114.0,Migraine,Never,2.0,3,0,2023-11-27,Medicaid
+PT00448,Jennifer Hill,30.0,Female,A+,131.0,71.0,73.0,,147.0,116.0,High Cholesterol,Current,0.0,5,1,2023-04-26,Private
+PT00487,Joseph Davis,35.0,Female,A+,111.0,81.0,103.0,29.6217725563284,223.0,104.0,Diabetes Type 2,Never,7.0,2,0,2023-06-09,Private
+PT00338,Richard Jones,40.0,Male,O+,126.0,60.0,72.0,27.42943483628396,273.0,117.0,Heart Disease,Never,5.0,4,1,2023-09-20,Private
+PT00237,Christopher Sanchez,18.0,Male,A+,113.0,83.0,89.0,28.397208458716342,173.0,132.0,Arthritis,Never,6.0,1,1,2023-12-25,Private
+PT00208,John Walker,52.0,Female,B+,90.0,83.0,58.0,24.765573017156548,138.0,98.0,Hypertension,Former,4.0,1,1,2023-02-16,Private
+PT00213,Richard Sanchez,59.0,Female,A+,117.0,71.0,87.0,24.16341176665741,258.0,84.0,Heart Disease,Former,4.0,1,2,2023-03-05,Private
+PT00296,Matthew Walker,34.0,Female,A+,115.0,86.0,75.0,,163.0,151.0,COPD,Former,6.0,3,0,2023-06-20,Private
+PT00471,Betty Allen,40.0,Female,O+,139.0,89.0,56.0,24.859859851075605,,126.0,Obesity,Former,3.0,4,1,2023-10-17,Medicaid
+PT00252,Charles Allen,58.0,Female,O+,220.0,150.0,64.0,16.0,182.0,75.0,Asthma,Never,3.0,2,3,2023-07-18,Private
+PT00195,John Martin,47.0,Female,B+,137.0,82.0,70.0,52.98150356276555,206.0,108.0,Hypertension,Never,3.0,1,6,2023-09-04,Medicare
+PT00472,James Wright,18.0,Male,A+,90.0,74.0,73.0,33.19413189727111,210.0,124.0,Heart Disease,Former,3.0,1,3,2023-12-03,Private
+PT00304,Mary Harris,54.0,Female,O+,137.0,110.0,80.0,26.946016517371177,232.0,70.0,None,Current,2.0,2,2,2023-10-28,Private
+PT00351,Elizabeth King,49.0,Female,A+,131.0,87.0,66.0,27.53219417127584,211.0,114.0,Arthritis,Never,4.0,2,3,2023-01-16,Medicaid
+PT00270,Sandra Rodriguez,46.0,Female,O+,169.0,82.0,90.0,24.323963733702907,,109.0,Obesity,Never,3.0,2,2,2023-07-09,Medicaid
+PT00202,David Lopez,53.0,Male,B+,123.0,74.0,73.0,30.410568860377534,278.0,83.0,Arthritis,Never,0.0,1,4,2023-04-26,Medicaid
+PT00162,Michelle Torres,56.0,Female,O+,140.0,84.0,65.0,25.13026788831923,174.0,124.0,Depression,Former,0.0,5,5,2023-11-22,Medicaid
+PT00044,Christopher Sanchez,,Male,O+,240.0,140.0,77.0,21.91036453207267,400.0,85.0,High Cholesterol,Never,2.0,2,1,2023-08-22,Medicare
+PT00218,Nancy Johnson,41.0,Male,,177.0,74.0,81.0,26.00354313840261,191.0,109.0,High Cholesterol,Current,1.0,5,5,2023-05-15,Medicare
+PT00402,Charles Walker,36.0,Female,B+,145.0,89.0,65.0,25.937933902372027,141.0,76.0,Heart Disease,Current,4.0,5,3,2023-12-07,Other
+PT00191,Paul Williams,38.0,Female,A+,127.0,91.0,83.0,28.10481763563702,136.0,147.0,Kidney Disease,Never,30.19116372296137,2,0,2023-09-14,Medicare
+PT00310,Andrew Johnson,41.0,Female,O-,119.0,87.0,82.0,31.236758712265257,,141.0,Asthma,Former,4.0,2,1,2023-01-02,Medicare
+PT00260,Sandra Clark,56.0,Male,A+,120.0,77.0,77.0,31.704316078053733,203.0,,Hypertension,Never,4.0,1,1,2023-03-21,Medicaid
+PT00106,Ashley Wilson,51.0,Female,B+,110.0,93.0,81.0,21.590516892284327,350.0,145.0,Asthma,Never,2.0,2,3,2023-12-16,Medicare
+PT00054,Donna Sanchez,54.0,Male,A+,110.0,70.0,,33.27328239414611,158.0,,Obesity,Former,4.0,2,4,2023-11-16,Self-Pay
+PT00390,Donna King,36.0,Male,AB+,90.0,102.0,140.0,31.953730580126237,,93.0,High Cholesterol,Never,,2,3,2023-08-09,Private
+PT00002,Sarah Thomas,42.0,Female,B+,111.0,101.0,92.0,28.782108527292703,153.0,93.0,Osteoporosis,Former,1.0,6,2,2023-06-02,Medicaid
+PT00455,Andrew Williams,37.0,Female,B-,118.0,73.0,86.0,32.84314811048564,238.0,93.0,High Cholesterol,Former,,2,1,2023-10-13,Medicaid
+PT00499,Nancy Allen,31.0,Female,O+,104.0,84.0,50.0,23.969996680457538,154.0,80.0,Asthma,Never,6.0,2,2,2023-05-20,Self-Pay
+PT00050,Thomas Rodriguez,,Male,A+,124.0,103.0,57.0,16.0,131.0,81.0,Obesity,Former,4.0,3,2,2023-02-08,Private
+PT00420,Karen Torres,46.0,Male,O+,125.0,82.0,62.0,28.130515654916984,190.0,101.0,Diabetes Type 2,Never,2.0,1,3,2023-10-15,Medicare
+PT00081,Karen Thomas,41.0,Female,A+,134.0,75.0,,24.224391722547505,152.0,148.0,Obesity,Never,0.0,2,1,2023-08-16,Private
+PT00206,Sarah Hernandez,30.0,Female,AB+,,,71.0,,250.0,152.0,High Cholesterol,Current,2.0,3,1,2023-10-13,Private
+PT00035,Daniel Wilson,57.0,,A+,230.0,140.0,84.0,32.803380180538525,239.0,70.0,Thyroid Disorder,Current,1.0,1,2,2023-01-19,Private
+PT00431,John Anderson,27.0,Male,O-,124.0,80.0,72.0,26.958159810336944,219.0,70.0,Hypertension,Never,2.0,0,2,2023-06-09,Medicaid
+PT00264,Barbara Smith,29.0,Female,O+,129.0,78.0,84.0,21.199356306758588,,86.0,Depression,Current,,1,4,2023-09-08,Other
+PT00428,James Clark,55.0,Female,A+,105.0,70.0,96.0,22.88626219999047,215.0,128.0,Diabetes Type 2,Former,4.0,3,3,2023-01-27,Medicare
+PT00367,Sarah Scott,48.0,Female,A+,139.0,69.0,77.0,26.432150945437712,217.0,134.0,Diabetes Type 2,Never,8.0,2,4,2023-03-06,Private
+PT00092,Karen Sanchez,59.0,Male,A+,111.0,60.0,70.0,27.66234041879435,230.0,88.0,Obesity,Never,2.0,0,4,2023-08-09,Private
+PT00340,Michael Martin,36.0,Male,B+,151.0,83.0,66.0,29.702726829372182,,78.0,Obesity,Never,1.0,2,2,2023-02-25,Self-Pay
+PT00489,Barbara Young,70.0,Male,O-,95.0,69.0,70.0,29.80011471220517,180.0,70.0,Anxiety,Never,5.0,4,2,2023-10-18,Private
+PT00053,Donna Ramirez,34.0,Male,A+,,,90.0,25.66554529202637,182.0,109.0,None,Never,4.0,2,4,2023-06-23,Private
+PT00346,Nancy Smith,48.0,Female,,120.0,72.0,70.0,23.805330138279984,,115.0,Hypertension,Current,6.0,2,4,2023-12-04,Medicare
+PT00265,Michael Ramirez,41.0,Female,O+,100.0,83.0,67.0,26.72453984665452,194.0,280.0,Thyroid Disorder,Never,3.0,0,1,2023-11-12,Private
+PT00242,Andrew Martin,43.0,Female,O+,122.0,82.0,89.0,25.35986566008381,209.0,100.0,Depression,Never,4.0,0,1,2023-03-13,Private
+PT00014,Sarah Smith,18.0,Male,O+,128.0,75.0,,21.86742414376972,178.0,134.0,Hypertension,,3.0,0,1,2023-10-06,Medicaid
+PT00316,Sandra Lee,45.0,Female,A+,134.0,99.0,68.0,25.05644935753707,180.0,98.0,High Cholesterol,Current,1.0,1,1,2023-03-31,Medicare
+PT00089,Kimberly Hill,37.0,Female,O+,132.0,81.0,77.0,29.401077279514116,243.0,110.0,Obesity,Current,5.0,0,1,2023-05-31,Medicare
+PT00388,Richard Wilson,73.0,Male,O-,128.0,60.0,75.0,22.640662945580857,173.0,100.0,High Cholesterol,Former,3.0,1,1,2023-10-10,Private
+PT00274,Michelle Allen,45.0,Female,B+,133.0,71.0,76.0,24.876885382042612,237.0,70.0,None,Never,3.0,2,4,2023-05-01,Private
+PT00167,Robert Thomas,57.0,Male,O-,142.0,60.0,78.0,25.97447712217368,224.0,90.0,Asthma,Former,3.0,4,2,2023-12-04,Private
+PT00329,Andrew Wilson,54.0,Male,O+,98.0,84.0,94.0,33.540061368948884,214.0,75.0,Asthma,Never,2.0,2,1,2023-01-27,Private
+PT00362,Ashley Lee,67.0,Female,A+,240.0,140.0,78.0,26.42694305067479,283.0,70.0,Obesity,Former,1.0,4,3,2023-02-11,Medicaid
+PT00135,Margaret Scott,31.0,Female,O+,,,63.0,26.223038622171448,350.0,72.0,Diabetes Type 2,Former,2.0,1,3,2023-04-12,Medicaid
+PT00307,William Flores,,Female,A-,155.0,86.0,50.0,16.0,159.0,101.0,Arthritis,Never,3.0,2,1,2023-06-18,Medicaid
+PT00497,William Jones,29.0,Female,O+,153.0,68.0,88.0,23.128087747685303,193.0,97.0,High Cholesterol,Current,1.0,2,0,2023-12-12,Self-Pay
+PT00320,Donald Johnson,43.0,Male,O+,134.0,83.0,73.0,26.149334616289128,199.0,96.0,Asthma,Former,1.0,2,3,2023-03-09,Private
+PT00244,James Martin,57.0,Female,A-,121.0,86.0,50.0,24.039092194012078,231.0,109.0,Migraine,Former,2.0,2,2,2023-01-20,Medicaid
+PT00055,Lisa Anderson,60.0,Male,A+,133.0,87.0,66.0,22.333656580979117,232.0,123.0,Diabetes Type 2,Never,1.0,2,3,2023-12-21,Private
+PT00364,Susan Thompson,51.0,Female,A+,122.0,69.0,78.0,36.2724422016429,204.0,111.0,High Cholesterol,Never,1.0,1,1,2023-11-08,Medicare
+PT00051,Jessica Scott,49.0,Male,O-,123.0,70.0,67.0,18.473489694958282,158.0,71.0,COPD,Never,4.0,7,4,2023-08-29,Medicare
+PT00470,Christopher Davis,36.0,Female,O-,125.0,89.0,66.0,16.0,227.0,81.0,None,Former,3.0,3,3,2023-03-15,Medicare
+PT00175,Linda Miller,49.0,Male,A+,109.0,103.0,66.0,19.116928508386586,161.0,102.0,Heart Disease,Never,2.0,0,1,2023-06-08,Private
+PT00446,Steven Wright,55.0,,O+,131.0,66.0,,22.628548537075588,189.0,98.0,Hypertension,Current,2.0,3,1,2023-05-23,Self-Pay
+PT00190,Robert Martinez,22.0,Male,O+,119.0,71.0,85.0,20.344788128520573,257.0,98.0,None,Never,2.0,4,2,2023-09-29,Medicaid
+PT00411,Andrew Martin,,Male,O+,120.0,80.0,160.0,22.748421600689536,218.0,97.0,None,Former,3.0,1,1,2023-02-17,Private
+PT00464,David Perez,48.0,Other,B+,105.0,80.0,52.0,19.028221666653835,163.0,84.0,High Cholesterol,Former,2.0,1,1,2023-12-26,Medicaid
+PT00188,Margaret Scott,43.0,Male,A+,99.0,88.0,73.0,30.282942209431752,,,None,,7.0,1,0,2023-10-04,Private
+PT00170,Paul Martin,33.0,Male,A+,,,86.0,21.16633540927775,227.0,,Obesity,Never,1.0,2,2,2023-11-18,Self-Pay
+PT00059,Barbara Hernandez,49.0,Male,B+,101.0,68.0,78.0,16.54048049373188,222.0,84.0,Hypertension,,5.0,3,3,2023-06-18,Medicare
+PT00475,Kimberly White,69.0,Male,,137.0,90.0,72.0,28.17832283228501,193.0,97.0,High Cholesterol,Never,3.0,2,3,2023-03-14,Other
+PT00049,Sandra Martinez,50.0,Female,O+,96.0,99.0,92.0,25.493375418850523,173.0,,Hypertension,Former,2.0,0,4,2023-03-21,Medicare
+PT00345,Robert Allen,37.0,Female,O-,142.0,94.0,86.0,51.989297797950385,228.0,,Obesity,Former,4.0,2,2,2023-01-23,Medicare
+PT00236,Karen Clark,54.0,Male,O-,126.0,62.0,79.0,26.990658255679378,178.0,78.0,Arthritis,Never,3.0,4,2,2023-08-26,Medicare
+PT00253,Michelle Perez,76.0,Male,A+,137.0,96.0,101.0,23.230157257112765,252.0,140.0,Osteoporosis,Current,4.0,4,1,2023-08-21,Medicare
+PT00022,Thomas Williams,41.0,Female,B-,136.0,101.0,95.0,,153.0,141.0,Heart Disease,Current,3.0,1,0,2023-07-16,Other
+PT00314,Thomas Harris,57.0,Male,,135.0,92.0,77.0,30.94327239683259,211.0,70.0,Depression,Former,4.0,1,2,2023-10-04,Private
+PT00460,Ashley Garcia,27.0,Male,A+,146.0,94.0,76.0,16.024597667926336,146.0,88.0,Depression,Never,3.0,2,2,2023-05-17,Medicare
+PT00161,James Robinson,30.0,Male,A-,168.0,78.0,69.0,29.747908716538277,177.0,,Heart Disease,Former,7.0,2,2,2023-04-23,Private
+PT00277,Donald Lewis,47.0,Male,O+,122.0,86.0,81.0,27.563254956036612,196.0,148.0,Thyroid Disorder,Former,2.0,5,3,2023-12-18,Medicaid
+PT00444,Sandra Martin,43.0,Female,A+,,,78.0,26.045703379113164,,,Obesity,Former,0.0,2,1,2023-07-08,Private
+PT00192,Lisa Nguyen,57.0,Other,O+,133.0,83.0,81.0,31.0082675168855,190.0,129.0,COPD,Former,4.0,1,2,2023-05-20,Medicare
+PT00386,Christopher Davis,47.0,Male,A+,90.0,71.0,72.0,,200.0,,Anxiety,Never,1.0,2,5,2023-12-02,Medicare
+PT00294,Matthew Nguyen,57.0,Female,O+,150.0,76.0,84.0,27.424126393118183,229.0,131.0,Obesity,Current,4.0,4,5,2023-01-11,Medicare
+PT00414,Anthony Hill,64.0,Male,AB+,115.0,89.0,56.0,21.852462205589912,213.0,,None,Never,4.0,2,5,2023-07-10,Medicaid
+PT00492,Donald Walker,67.0,Female,A-,,,78.0,30.054315577991744,263.0,94.0,Thyroid Disorder,Never,,4,5,2023-01-27,Medicaid
+PT00344,Margaret White,37.0,Female,A-,118.0,84.0,78.0,,185.0,70.0,Hypertension,Never,1.0,2,2,2023-11-11,Medicare
+PT00258,Jessica Walker,34.0,Male,O+,149.0,82.0,72.0,16.0,191.0,80.0,Arthritis,Never,3.0,0,2,2023-08-03,Private
+PT00309,Betty Nguyen,53.0,Female,B+,138.0,74.0,,16.869070752916446,248.0,,Heart Disease,Never,2.0,2,0,2023-11-02,Medicare
+PT00150,Jessica Nguyen,49.0,Male,,143.0,78.0,57.0,22.005396720406175,172.0,121.0,Hypertension,Never,,3,2,2023-05-21,Private
+PT00131,Patricia Hernandez,21.0,Female,,,,72.0,16.0,203.0,,Hypertension,Never,7.0,1,0,2023-12-20,Medicaid
+PT00152,Michelle Garcia,50.0,Male,O+,146.0,92.0,80.0,29.045876167201204,300.0,99.0,Thyroid Disorder,Never,5.0,1,3,2023-10-17,Private
+PT00360,Michelle Harris,32.0,Female,A+,90.0,81.0,72.0,29.25637522059344,203.0,109.0,COPD,Never,4.0,3,3,2023-08-16,Medicare
+PT00100,Joseph Smith,41.0,Female,O-,90.0,81.0,62.0,23.67670273897729,,98.0,Depression,Former,2.0,4,4,2023-03-29,Medicaid
+PT00373,Ashley Lewis,66.0,Female,A+,140.0,79.0,56.0,32.02297289684195,228.0,90.0,Hypertension,Former,0.0,1,3,2023-12-31,Private
+PT00088,David Taylor,49.0,Male,O+,,,64.0,19.35748735492438,120.0,70.0,None,Never,4.0,6,0,2023-01-29,Private
+PT00459,Donna Ramirez,36.0,Male,O-,118.0,66.0,67.0,,178.0,117.0,Diabetes Type 2,Never,2.0,2,1,2023-12-22,Private
+PT00331,Lisa Hernandez,44.0,Female,O+,120.0,67.0,85.0,59.55980058826072,194.0,132.0,Anxiety,Current,2.0,5,0,2023-08-04,Private
+PT00215,Robert Moore,40.0,Male,O+,133.0,86.0,57.0,25.080653500916895,171.0,119.0,Osteoporosis,Former,1.0,3,1,2023-07-08,Private
+PT00467,Emily Williams,54.0,Male,O+,136.0,78.0,71.0,27.272132287133605,170.0,70.0,Arthritis,Never,1.0,0,3,2023-06-29,Medicare
+PT00122,Sarah Robinson,31.0,Female,B+,136.0,84.0,78.0,26.28463210435388,181.0,88.0,Depression,Never,6.0,1,2,2023-10-07,Medicaid
+PT00377,Karen Nguyen,58.0,Female,,135.0,95.0,70.0,28.260320050758075,207.0,78.0,Hypertension,Never,2.0,2,3,2023-09-29,Medicare
+PT00021,Daniel Hill,66.0,Female,O+,127.0,60.0,86.0,31.92126708015733,201.0,70.0,Anxiety,Never,3.0,2,2,2023-10-20,Medicare
+PT00189,James Davis,32.0,Male,O+,90.0,80.0,76.0,,182.0,73.0,Hypertension,Never,1.0,1,1,2023-07-07,Medicaid
+PT00072,Steven Miller,68.0,Male,B+,166.0,100.0,69.0,24.712242144273482,216.0,70.0,None,Former,3.0,0,3,2023-12-17,Private
+PT00107,Paul Rodriguez,73.0,Male,O+,140.0,70.0,75.0,26.934298511160343,215.0,84.0,High Cholesterol,Current,2.0,4,1,2023-05-04,Private
+PT00271,Sandra King,66.0,Female,O+,240.0,140.0,70.0,41.07355854651105,279.0,126.0,Diabetes Type 2,Never,3.0,2,0,2023-04-22,Self-Pay
+PT00436,Margaret Davis,46.0,Male,A+,132.0,89.0,70.0,,179.0,138.0,Heart Disease,Never,1.0,1,4,2023-04-19,Medicare
+PT00103,John Perez,39.0,Female,O+,149.0,70.0,60.0,27.23893590526041,160.0,104.0,None,Never,3.0,0,0,2023-11-09,Private
