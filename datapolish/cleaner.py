@@ -107,7 +107,7 @@ class DataCleaner:
         self.file_path = Path(file_path)
         self.sample_size = sample_size
         self.max_mem_gb = max_mem_gb
-        self.num_workers = num_workers or multiprocessing.cpu_count()
+        self.num_workers = num_workers or multiprocessing.cpu_count() - 1
         self.df = None
         self.is_sampled = False
         self.original_size = None
